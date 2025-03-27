@@ -1,4 +1,4 @@
-Dependency-Check Command Line
+Dependency-Check Command Lineh
 ================
 Dependency-Check Command Line can be used to check project dependencies for published security vulnerabilities. The checks
 performed are a "best effort" and as such, there could be false positives as well as false negatives. However,
